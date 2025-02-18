@@ -1,0 +1,16 @@
+Proposiciones Lógicas:
+
+1. Salir de casa puntualmente para llegar al trabajo a tiempo**
+   - Si me despierto temprano Y el transporte está disponible ENTONCES llegaré a tiempo al trabajo.
+
+2. Aprobar el curso de matemáticas
+   - Si estudio diariamente Y presento todas las tareas ENTONCES aprobaré el curso de matemáticas.
+
+3. Tener una alimentación saludable
+   - Si como frutas y verduras Y NO consumo comida rápida ENTONCES tendré una alimentación saludable.
+
+4. Mantenerse en forma
+   - Si hago ejercicio regularmente O duermo bien ENTONCES me mantendré en forma.
+
+5. Ahorrar dinero para un viaje
+   - Si NO gasto en cosas innecesarias Y tengo una fuente de ingresos ENTONCES podré ahorrar dinero para un viaje.

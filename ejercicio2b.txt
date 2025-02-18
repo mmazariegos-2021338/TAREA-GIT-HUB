@@ -1,0 +1,11 @@
+Algoritmo para Echar a andar un carro:
+1. Ingresar al carro y cerrar la puerta.
+2. Insertar la llave en el switch de encendido.
+3. Verificar que la palanca de cambios esté en 'P' o 'N' (para automáticos) o en punto muerto (para mecánicos).
+4. Girar la llave hasta encender el motor.
+5. Esperar unos segundos a que el motor se estabilice.
+6. Oprimir el pedal del freno.
+7. Cambiar la palanca a 'D' (para automáticos) o a primera velocidad (para mecánicos).
+8. Soltar el freno de mano.
+9. Soltar lentamente el pedal del freno y presionar suavemente el acelerador.
+10. Iniciar la marcha con precaución.
